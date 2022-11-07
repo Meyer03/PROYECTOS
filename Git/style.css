@@ -1,0 +1,10 @@
+.flex-conteiner {
+    border: orange 2px solid;
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-child {
+    
+
+}
